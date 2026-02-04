@@ -30,3 +30,22 @@ Deliverable:
 - main.cpp
 - 1–2 min video explaining logic + demo run
 - Upload to GitHub (fork this repo first)
+
+- ## Lab 4 Submission by Natalie Martinez (Functions and passing methods)
+
+  ## Description
+  created a program that is supposed to manage some student scores
+
+  ## My introduction Video
+https://share.icloud.com/photos/0b87LJ2O3tepPxsBSm-BD7lNw
+
+## My class notes
+![image](https://github.com/user-attachments/assets/83051043-6a4b-4535-8a61-5ce71e855839)
+
+
+![image](https://github.com/user-attachments/assets/5ce30beb-b52c-48cc-8977-5f724d4ef292)
+
+![image](https://github.com/user-attachments/assets/606e1219-49fe-4d2f-90af-19f4c609f2fe)
+
+
+
