@@ -37,7 +37,7 @@ Deliverable:
   created a program that is supposed to manage some student scores
 
   ## My introduction Video
-https://share.icloud.com/photos/0b87LJ2O3tepPxsBSm-BD7lNw
+https://share.icloud.com/photos/0fftJOuCYODN9Y0wQepKWlzhg
 
 ## My class notes
 ![image](https://github.com/user-attachments/assets/83051043-6a4b-4535-8a61-5ce71e855839)
